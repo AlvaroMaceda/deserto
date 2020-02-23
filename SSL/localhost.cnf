@@ -5,7 +5,7 @@ default_md = sha256
 distinguished_name = dn
 
 [dn]
-C=US
+C=ES
 ST=RandomState
 L=RandomCity
 O=RandomOrganization
